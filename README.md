@@ -1,1 +1,1 @@
-# pygame-3d
+# pygame-3D Starfield
