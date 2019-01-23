@@ -1,1 +1,1 @@
-# pygame-_3d
+# pygame-3d
